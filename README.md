@@ -1,16 +1,71 @@
 ## Hi there 👋
 
-<!--
-**Khanak-14/Khanak-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Khanak 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>Turning ideas into code. Learning something new every day.</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me  
+- 🎓 **B.Tech CSE Graduate from PES University**  
+- 💡 Passionate about Backend Development, Machine Learning & Data Analytics  
+- 📊 Worked on real-world analytics projects during my E-Commerce Operations internship  
+- 🧠 Learning FastAPI, Docker, and improving problem-solving skills  
+ 
+---
+
+## 🛠️ Tech Stack  
+
+### **Programming Languages**
+- Python | C++  
+
+### **Data Analyst Skills**
+- SQL  
+- Python for Data Analysis (NumPy, Pandas)  
+- Data Visualization (Matplotlib, Seaborn)  
+- Exploratory Data Analysis (EDA)  
+- Data Cleaning & Transformation  
+- Excel (Pivot Tables, VLOOKUP, Dashboards)
+
+### **Tools & Platforms**
+- Git & GitHub  
+- Docker  
+- Jupyter Notebook  
+- VS Code  
+- Power BI(basic)
+
+---
+
+## 📌 Featured Projects  
+
+### 🔹 **CKD Predictor (ML + Django)**  
+A machine learning system to predict Chronic Kidney Disease in diabetic patients.  
+Includes data cleaning, model training, evaluation, and an interactive web interface.
+
+### 🔹 **E-commerce Data Optimization (Analytics Project)**  
+Analyzed e-commerce operational data to identify bottlenecks, improve workflow efficiency,  
+and generate actionable insights using Python, SQL & visualization tools.
+
+### 🔹 **Hotel Reservation System**  
+A Python-based reservation and management system.
+
+---
+
+## 📈 Current Focus  
+- 📊 Strengthening **SQL + Data Analytics**  
+- 🧩 Solving **DSA** regularly  
+- 🌐 Preparing for roles in **Backend, Data Analyst, ML & GenAI**
+
+---
+
+## 🌐 Connect With Me  
+📍 Jaipur, India  
+🔗 [LinkedIn](https://www.linkedin.com/in/khanak-akar-669144241)
+
+---
+
+<p align="center">
+  ⭐️ <b>Thanks for visiting my GitHub!</b> ⭐️
+</p>
